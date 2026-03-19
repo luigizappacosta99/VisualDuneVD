@@ -1,0 +1,9 @@
+VIDUALDUNEVD
+An event visualizer for dune FDVD
+If you see this it means it works!
+Instruction will come when I have spare time
+- modes
+loop:
+single:
+- settings.txt
+- options

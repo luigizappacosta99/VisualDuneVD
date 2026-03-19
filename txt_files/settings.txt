@@ -1,0 +1,4 @@
+outputFile: "1803prova" ???
+outputFolder: "."
+verboseTruth: true
+verboseG4: false
