@@ -1,4 +1,5 @@
 .vscode
 *.root
 tests/
+tests2/
 .DS_Store

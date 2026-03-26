@@ -1,4 +1,5 @@
-outputFile: "1803prova" ???
-outputFolder: "."
 verboseTruth: true
 verboseG4: false
+graphOn: true
+customAnalysis: true
+outputName: "prova_2603"
